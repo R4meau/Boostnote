@@ -48,8 +48,12 @@ const languages = [
     locale: 'pl'
   },
   {
-    name: 'Portuguese',
-    locale: 'pt'
+    name: 'Portuguese (PT-BR)',
+    locale: 'pt-BR'
+  },
+  {
+    name: 'Portuguese (PT-PT)',
+    locale: 'pt-PT'
   },
   {
     name: 'Russian',
@@ -58,6 +62,12 @@ const languages = [
   {
     name: 'Spanish',
     locale: 'es-ES'
+  }, {
+    name: 'Turkish',
+    locale: 'tr'
+  }, {
+    name: 'Thai',
+    locale: 'th'
   }
 ]
 
